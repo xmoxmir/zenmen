@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on وبلاگ من</title>
+		<link>http://localhost:1313/posts/</link>
+		<description>Recent content in Posts on وبلاگ من</description>
+		<generator>Hugo</generator>
+		<language>fa-ir</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 03 Nov 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>rocsana</title>
+				<link>http://localhost:1313/posts/roc/</link>
+				<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/roc/</guid>
+				<description>&lt;p&gt;#نوشتن برچسب زمان را کسب میکند!&#xA;برحسب عادت ویرانم. عشق بیماری غریبی ست. یکجوری می شوی که هر چه شود تو&#xA;یکجوری می مانی. حیرانی، مجنونی و چیزهای دیگری که تنها واژه اند. بعد می&#xA;افتی به موسیقی تا شاید دیگران حالیشان شود که اخر دردت چیست و یک درمانی&#xA;چیزی ولی خوب ته اش برای چندی دیگران اند که یکجوری می شوند، می روند توی&#xA;خودشان. حالا اگر بروی بگویی این تو کجاست؟ از صد یکی نیست جوابی دهد. غم&#xA;است! این تو ادرس اش غم است. یک موج از دوری، غربت و فراق. از چه؟ شاید&#xA;واقعا بهشت را دیده ایم وگرنه دمی دنیا را با غم به سر بردن؟&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
