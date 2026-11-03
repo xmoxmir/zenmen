@@ -23,6 +23,10 @@
     font-display: swap;
 }
 
+* {
+    font-family: 'Vazirmatn' , sans-serif;
+}
+
 html {
     direction: rtl;
     text-align: right;
