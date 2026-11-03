@@ -1,0 +1,35 @@
+/* Persian RTL support */
+
+html {
+    direction: rtl;
+}
+
+body {
+    direction: rtl;
+    text-align: right;
+    font-family: Tahoma, sans-serif;
+}
+
+.post-content,
+article,
+.prose {
+    direction: rtl;
+    text-align: right;
+}
+
+ul, ol {
+    padding-right: 2rem;
+    padding-left: 0;
+}
+
+blockquote {
+    border-left: none;
+    border-right: 4px solid #ccc;
+    padding-right: 1rem;
+    padding-left: 0;
+}
+
+input, textarea {
+    direction: rtl;
+    text-align: right;
+}

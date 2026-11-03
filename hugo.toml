@@ -1,4 +1,7 @@
 baseURL = 'https://xmoxmir.github.io/zenmen/'
 languageCode = 'fa-ir'
+defaultContentLanguage = 'fa'
 title = 'zenmen'
 theme = 'ananke'
+[params.ananke]
+custom_css = ["custom.css"]
